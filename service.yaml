@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: master-ui
-        image: 889945364708.dkr.ecr.ap-south-1.amazonaws.com/testotherenvironments/master-ui:1-0-2
+        image: 889945364708.dkr.ecr.ap-south-1.amazonaws.com/testotherenvironments/master-ui:1-0-3
         ports:
         - containerPort: 4200
 ---
